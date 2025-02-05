@@ -1,3 +1,3 @@
-##Enigma LeaderBoard 
--Team memebers
+###Enigma LeaderBoard###
+-Team members-
 Ayush Kumar Singh
